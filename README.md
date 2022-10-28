@@ -1,4 +1,4 @@
-# typeScrip notes 
+# typescript notes 
 ##  types vs interfaces
 
 
